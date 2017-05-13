@@ -1,0 +1,22 @@
+{
+  "name": "hellobalance",
+  "version": "1.0.0",
+  "description": "Playing around with Truffle 3 and practicing Ehterum workflow.",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylanavery720/helloBalance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylanavery720/helloBalance/issues"
+  },
+  "homepage": "https://github.com/dylanavery720/helloBalance#readme"
+}
